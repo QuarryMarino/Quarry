@@ -1,0 +1,20 @@
+finish {
+  display: contents;
+  margin-top: 70px;
+  margin-bottom: 30px;
+  text-align: center;
+}
+
+p {
+  font-size: 18px;
+  color: #b46f6f;
+  font-weight: 500;
+}
+.quarry {
+ text-decoration: underline;
+}
+
+.font-bold {
+  font-weight: 700;
+  text-decoration: underline;
+}
